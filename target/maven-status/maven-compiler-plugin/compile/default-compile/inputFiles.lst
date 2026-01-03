@@ -1,0 +1,14 @@
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\AiGatewayApplication.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\client\ExtractionClient.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\client\RagClient.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\config\CorrelationIdFilter.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\config\HttpClientConfig.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\config\ServicesProperties.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\controller\AiController.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\controller\RootController.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\dto\ChatRequest.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\dto\ChatResponse.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\dto\ItineraryRequest.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\dto\RagQueryRequest.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\exception\DownstreamException.java
+C:\Users\Sanduni\ai-gateway\src\main\java\com\sandiniru\aigateway\exception\GlobalExceptionHandler.java

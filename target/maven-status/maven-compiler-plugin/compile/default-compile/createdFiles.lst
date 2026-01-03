@@ -1,0 +1,5 @@
+com\sandiniru\aigateway\dto\ChatResponse.class
+com\sandiniru\aigateway\controller\AiController.class
+com\sandiniru\aigateway\AiGatewayApplication.class
+com\sandiniru\aigateway\controller\RootController.class
+com\sandiniru\aigateway\dto\ChatRequest.class
